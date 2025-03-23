@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, good people! Welcome to my GitHub profile. A little bit about me — I’m passionate about uncovering insights from data and creating meaningful impact for businesses or research. I have 3 years of experience as a data analyst and data researcher, with a Bachelor's in Computer Science and a Master's in Information Technology. In my free time, I enjoy hiking and brushing up on my singing skills. Feel free to email me at supriabasak99@gmail.com if you’d like to use any of my projects! 
+Hello, good people! Welcome to my GitHub profile. A little bit about me — I’m passionate about uncovering insights from data and creating meaningful impact for businesses or research. I have 3 years of experience as a data analyst and data researcher, with a Bachelor's in Computer Science and a Master's in Information Technology. In my free time, I enjoy hiking and brushing up on my singing skills. Feel free to email me at supriabasak1@gmail.com if you’d like to use any of my projects! 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/supriabasak/) 
